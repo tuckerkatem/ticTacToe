@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+**/**/__pycache__/*
+**/__pycache__/*
+*.swp
+.project
+.pydevproject
+*.log
+logs/
+tmp/
+*-bak
+local_settings.py
+local_config.py
+/log/
